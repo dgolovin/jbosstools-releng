@@ -58,4 +58,4 @@
 	url = git://github.com/dgolovin/jbosstools-dev.git
 [submodule "jbosstools-javaee"]
 	path = jbosstools-javaee
-	url = git://github.com/dgolovin/jbosstools-javaee.git
+	url = git://github.com/jbosstools/jbosstools-javaee.git
