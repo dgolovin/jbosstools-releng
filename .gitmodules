@@ -1,0 +1,61 @@
+[submodule "jbosstools-build"]
+	path = jbosstools-build
+	url = git://github.com/jbosstools/jbosstools-build.git
+[submodule "jbosstools-base"]
+	path = jbosstools-base
+	url = git://github.com/jbosstools/jbosstools-base.git
+[submodule "jbosstools-jst"]
+	path = jbosstools-jst
+	url = git://github.com/jbosstools/jbosstools-jst.git
+[submodule "jbosstools-vpe"]
+	path = jbosstools-vpe
+	url = git://github.com/jbosstools/jbosstools-vpe.git
+[submodule "jbosstools-server"]
+	path = jbosstools-server
+	url = git://github.com/jbosstools/jbosstools-server.git
+[submodule "jbosstools-hibernate"]
+	path = jbosstools-hibernate
+	url = git://github.com/jbosstools/jbosstools-hibernate.git
+[submodule "jbosstools-forge"]
+	path = jbosstools-forge
+	url = git://github.com/jbosstools/jbosstools-forge.git
+[submodule "jbosstools-arquillian"]
+	path = jbosstools-arquillian
+	url = git://github.com/jbosstools/jbosstools-arquillian.git
+[submodule "jbosstools-central"]
+	path = jbosstools-central
+	url = git://github.com/jbosstools/jbosstools-central.git
+[submodule "jbosstools-birt"]
+	path = jbosstools-birt
+	url = git://github.com/jbosstools/jbosstools-birt.git
+[submodule "jbosstools-livereload"]
+	path = jbosstools-livereload
+	url = git://github.com/jbosstools/jbosstools-livereload.git
+[submodule "jbosstools-aerogear"]
+	path = jbosstools-aerogear
+	url = git://github.com/jbosstools/jbosstools-aerogear.git
+[submodule "jbosstools-openshift"]
+	path = jbosstools-openshift
+	url = git://github.com/jbosstools/jbosstools-openshift.git
+[submodule "jbosstools-browsersim"]
+	path = jbosstools-browsersim
+	url = git://github.com/jbosstools/jbosstools-browsersim.git
+[submodule "jbosstools-freemarker"]
+	path = jbosstools-freemarker
+	url = git://github.com/jbosstools/jbosstools-freemarker.git
+[submodule "jbosstools-portlet"]
+	path = jbosstools-portlet
+	url = git://github.com/jbosstools/jbosstools-portlet.git
+[submodule "jbosstools-webservices"]
+	path = jbosstools-webservices
+	url = git://github.com/jbosstools/jbosstools-webservices.git
+[submodule "jbosstools-target-platforms"]
+	path = jbosstools-target-platforms
+	url = git://github.com/jbosstools/jbosstools-target-platforms.git
+	branch = 4.50.x
+[submodule "jbosstools-dev"]
+	path = jbosstools-dev
+	url = git://github.com/dgolovin/jbosstools-dev.git
+[submodule "jbosstools-javaee"]
+	path = jbosstools-javaee
+	url = git://github.com/dgolovin/jbosstools-javaee.git
