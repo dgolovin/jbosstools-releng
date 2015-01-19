@@ -3,9 +3,9 @@
 
 ## Prerequisites
 
-Git
-Java SDK 1.7+
-maven
+1. Git
+1. Java SDK 1.7+
+1. maven 3.1+
 
 ## Build Everything "one by one"
 
@@ -41,4 +41,4 @@ Start the build with unified target platform
 
 Start the build with multiple target platform
 
-   mvn clean install -DtpcKind=multiple -f full-build/pom.xml 
+    mvn clean install -DtpcKind=multiple -f full-build/pom.xml 
