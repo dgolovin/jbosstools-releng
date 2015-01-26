@@ -19,7 +19,7 @@ Change dir to repository root folder
 
 Start the build with unified target platform
 
-    mvn clean install -f full-build/pom.1by1.xml 
+    mvn clean install -f jbosstools-dev/full-build/pom.1by1.xml 
 
 Start the build with multiple target platform
 
@@ -37,7 +37,7 @@ Change dir to repository root folder
 
 Start the build with unified target platform
 
-    mvn clean install -f full-build/pom.xml 
+    mvn clean install -f jbosstools-dev/full-build/pom.xml 
 
 Start the build with multiple target platform
 
