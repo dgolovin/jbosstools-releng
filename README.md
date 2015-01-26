@@ -11,7 +11,7 @@
 
 Clone repository as 
 
-    git clone git://github.com/dgolovin/jbosstools-releng.git
+    git clone --recursive git://github.com/dgolovin/jbosstools-releng.git
 
 Change dir to repository root folder
 
