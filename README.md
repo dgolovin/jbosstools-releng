@@ -23,7 +23,7 @@ Start the build with unified target platform
 
 Start the build with multiple target platform
 
-    mvn clean install -DtpcKind=multiple -f full-build/pom.1by1.xml 
+    mvn clean install -DtpcKind=multiple -f jbosstools-dev/full-build/pom.1by1.xml 
 
 ## Buildin everything in one reactor
 
@@ -41,4 +41,4 @@ Start the build with unified target platform
 
 Start the build with multiple target platform
 
-    mvn clean install -DtpcKind=multiple -f full-build/pom.xml 
+    mvn clean install -DtpcKind=multiple -f jbosstools-dev/full-build/pom.xml 
