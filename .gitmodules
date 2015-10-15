@@ -78,3 +78,11 @@
 	path = jbosstools-javaee
 	url = git://github.com/jbosstools/jbosstools-javaee.git
         branch = master
+[submodule "jbosstools-playground"]
+	path = jbosstools-playground
+	url = git://github.com/jbosstools/jbosstools-playground.git
+	branch = master
+[submodule "jbdevstudio-product"]
+	path = jbdevstudio-product
+	url = https://github.com/jbdevstudio/jbdevstudio-product.git
+	branch = master
