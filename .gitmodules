@@ -69,7 +69,7 @@
 [submodule "jbosstools-target-platforms"]
 	path = jbosstools-target-platforms
 	url = git://github.com/jbosstools/jbosstools-target-platforms.git
-	branch = 4.50.x
+	branch = 4.60.x
 [submodule "jbosstools-dev"]
 	path = jbosstools-dev
 	url = git://github.com/dgolovin/jbosstools-dev.git
