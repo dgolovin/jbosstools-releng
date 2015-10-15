@@ -84,5 +84,5 @@
 	branch = master
 [submodule "jbdevstudio-product"]
 	path = jbdevstudio-product
-	url = https://github.com/jbdevstudio/jbdevstudio-product.git
+	url = git@github.com:jbdevstudio/jbdevstudio-product.git
 	branch = master
